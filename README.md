@@ -9,16 +9,16 @@ If this repository helped you, consider giving it a ⭐
 
 | No. | Question | Status |
 |-----|-----------|--------|
-| 1 | Find even numbers from a list | ✅ |
-| 2 | Convert list of strings to uppercase | ✅ |
-| 3 | Count total elements in a list | ✅ |
-| 4 | Find first element in stream | ✅ |
-| 5 | Remove duplicate elements | ✅ |
-| 6 | Sort integers in ascending order | ✅ |
-| 7 | Find maximum number in list | ✅ |
-| 8 | Find minimum number in list | ✅ |
-| 9 | Count occurrence of each character | ✅ |
-| 10 | Find names starting with specific character | ✅ |
+| 1 | Find the sum of all elements in a list | ✅ |
+| 2 | Count number of elements in a stream | ✅ |
+| 3 | Filter even numbers from a list of integers | ✅ |
+| 4 | Convert a list of strings to uppercase | ✅ |
+| 5 | Sort a list of integers in ascending order | ✅ |
+| 6 | Count number of strings containing a given character | ✅ |
+| 7 | Find names starting with specific character | ✅ |
+| 8 | Square each odd number in a list | ✅ |
+| 9 | Map strings to their lengths | ✅ |
+| 10 | Count vowels in each string | ✅ |
 
 ---
 
