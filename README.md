@@ -19,6 +19,14 @@ If this repository helped you, consider giving it a ⭐
 | 8 | Square each odd number in a list | ✅ |
 | 9 | Map strings to their lengths | ✅ |
 | 10 | Count vowels in each string | ✅ |
+| 11 | Find maximum number in a list | ✅ |
+| 12 | Remove duplicate elements from a list | ✅ |
+| 13 | Extract distinct odd numbers | ✅ |
+| 14 | Flatten a List of Lists | ✅ |
+| 15 | Concatenate all strings in a list | ✅ |
+| 16 | Remove null values from a list | ✅ |
+| 17 | Calculate the average of a list of integers | ✅ |
+| 18 | Reverse each word in a list of string | ✅ |
 
 ---
 
