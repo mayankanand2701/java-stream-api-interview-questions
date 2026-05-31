@@ -27,6 +27,8 @@ If this repository helped you, consider giving it a ⭐
 | 16 | Remove null values from a list | ✅ |
 | 17 | Calculate the average of a list of integers | ✅ |
 | 18 | Reverse each word in a list of string | ✅ |
+| 19 | Sort strings alphabetically | ✅ |
+| 20 | Find shortest string in a list | ✅ |
 
 ---
 
@@ -34,16 +36,11 @@ If this repository helped you, consider giving it a ⭐
 
 | No. | Question | Status |
 |-----|-----------|--------|
-| 1 | Find second highest salary employee | ✅ |
-| 2 | Group employees by department | ✅ |
-| 3 | Find duplicate elements in array | ✅ |
-| 4 | Find frequency of each word | ✅ |
-| 5 | Partition numbers into even and odd | ✅ |
-| 6 | Find longest string in list | ✅ |
-| 7 | Sort employees by salary and name | ✅ |
-| 8 | Convert list into map | ✅ |
-| 9 | Find average salary department-wise | ✅ |
-| 10 | Merge two unsorted arrays and sort | ✅ |
+| 1 | Find the difference between max and min number | ✅ |
+| 2 | Find the second largest number | ✅ |
+| 3 | Partition numbers into even and odd | ✅ |
+| 4 | Group employees by department and count | ✅ |
+| 5 | Find the kth smallest element | ✅ |
 
 ---
 
